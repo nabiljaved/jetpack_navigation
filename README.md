@@ -1,6 +1,6 @@
 # Android JetpackNavigationComponent
 
-This project is used for **[Jetpack Navigation Component](https://developer.android.com/guide/navigation)** tutorials on **[U4Universe](https://www.youtube.com/u4universe)** Youtube channel.
+This project is used for **[Jetpack Navigation Component](https://developer.android.com/guide/navigation)** 
 
 # Introduction
 Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app. Android Jetpack's Navigation component helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer. The Navigation component also ensures a consistent and predictable user experience by adhering to an established set of principles.
