@@ -20,17 +20,9 @@ We'll learn
 
 
 # Contact Info
-You can contact me if you have any problem related to code or video.
+You can contact me if you have any problem Thanks : Nabeel 
 
-[Instagram](https://www.instagram.com/saifi369/)
 
-[Facebook](https://www.facebook.com/saifi369)
+[Gmail](nabeeljaved2029@gmail.com)  ```nabeeljaved2029@gmail.com```
 
-[Gmail](chsaif369@gmail.com)  ```chsaif369@gmail.com```
 
-# Note
-
-This repository contains multiple branches. Each video uses its own branch, so make sure to check the branch used in the video and then select that branch from branch list.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
